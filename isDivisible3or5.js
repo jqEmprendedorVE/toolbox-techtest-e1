@@ -28,7 +28,7 @@ let searchDivisors = (() =>{
    */
   checkEntry = (arr) => {
     // Chequea si un elemento de entrada es un arreglo
-    if(!Array.isArray(arr)) return `El argumento que envio es tipo '${typeof arr}' y debe ser un arreglo`
+    if(!Array.isArray(arr)) return `El argumento que envio debe ser tipo arreglos`
     //Chequea si el arreglo de entrada no venga vacío
     if(arr.length === 0) return 'Se ha enviado un arreglo sin elementos definidos'
     //Chequea que todos los elementos de entrada sean númericos

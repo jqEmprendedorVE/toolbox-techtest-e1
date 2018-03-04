@@ -1,4 +1,4 @@
-# Test tecnico para Entrevista 
+# Test técnico para entrevista que me realizarón
 
 Esta es una prueba tecnica que realice para resolver un requerimiento en una entrevista de una empresa en Argentina. El objetivo del mismo persigue resolver un script que permitiera:
 
