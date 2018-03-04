@@ -40,3 +40,23 @@ NPM version: 5.5.1
 git version 2.14.2.windows.1
 
 ```
+
+### Ejemplos de uso
+
+```
+/*
+La funcion recibe un parametro array
+ej: [6,15,21,25,30, 45]
+
+se puede incorporar con los siguientes comandos
+*/
+const isDivisible3or5 = require('./isDivisible3or5.js')
+
+// Se invoca la función de la siguiente manera
+var res = isDivisible3or5.getResult([6,15,21,25,30, 45])
+
+// Se imprime con el siguiente comando el resultado
+// que debe ser [ 'Fizz', 'FizzBuzz', 'Fizz', 'Buzz', 'FizzBuzz', 'FizzBuzz' ]
+console.log(res)
+
+```
