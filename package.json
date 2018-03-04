@@ -1,0 +1,30 @@
+{
+  "name": "e1",
+  "version": "1.0.0",
+  "description": "Funcion que analiza arreglos sin son divisibles de 3 y 5",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jqEmprendedorVE/toolbox-techtest-e1.git"
+  },
+  "keywords": [
+    "node",
+    "patron",
+    "module",
+    "unit",
+    "tests",
+    "mocha"
+  ],
+  "author": "jqEmprendedorVE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jqEmprendedorVE/toolbox-techtest-e1/issues"
+  },
+  "homepage": "https://github.com/jqEmprendedorVE/toolbox-techtest-e1#readme"
+}
